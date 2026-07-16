@@ -13,8 +13,8 @@ A simplified backend for managing tasks, built with **Java Spring Boot**, follow
 - Future date validation
 
 ## Requirements
-- Java 17+
-- Maven
+- Java 17
+- Gradle
 
 ## Run
 ```bash
